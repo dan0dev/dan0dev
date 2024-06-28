@@ -19,7 +19,6 @@ I'm a 21-year-old aspiring full-stack developer with a keen interest in the tech
 
 
 ## ✨ Fun Facts:
-[A few random fun facts about you]
 
 ## 📫 Contact:
 For quicker response, DM me on LinkedIn.
