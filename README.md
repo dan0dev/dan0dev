@@ -1,6 +1,6 @@
 ### Hey, I'm Daniel 👋🏼
 
-I'm a 21-year-old aspiring full-stack developer with a keen interest in the tech world. I've been working on WordPress websites, but my ultimate goal is to become a well-rounded programmer. Follow my journey on GitHub to see my progress and learn more about me.
+I'm a 21-year-old aspiring full-stack developer with a keen interest in the tech world. I've been working on WordPress websites, but my ultimate goal is to become a well-rounded, Fullstack Developer. Follow my journey on GitHub to see my progress and learn more about me.
 
 - Check out my [Portfolio](https://daniel-webportfolio.hu).
 - Use my favorite [theme](https://marketplace.visualstudio.com/items?itemName=DesignCourse.designcourse) in vscode.
