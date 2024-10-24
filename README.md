@@ -1,4 +1,4 @@
-### Hey, I'm Daniel 👋🏼
+### Hey, I'm Dano 👋🏼
 
 I'm a 21-year-old aspiring full-stack developer with a keen interest in the tech world. I've been working on WordPress websites, but my ultimate goal is to become a well-rounded, Fullstack Developer. Follow my journey on GitHub to see my progress and learn more about me.
 
