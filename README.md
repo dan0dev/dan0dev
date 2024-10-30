@@ -7,18 +7,21 @@ I'm a 21-year-old aspiring full-stack developer with a keen interest in the tech
 
 ## 📦 Skillset:
 
-**Frontend:** `HTML`, `CSS`, `JavaScript (React, Angular, Vue.js)`
+**Frontend Core:** `HTML`, `CSS`, `JavaScript`, `Typescript`
+
+**Frontend Frameworks & Libraries:** `React`, `NextJS`, `Redux`, `TailwindCSS`
 
 **Version Control:** `Git`
 
-**Backend Development:** `Python (Django)`, `PHP (Laravel)`, `Node.js (Express.js)`
+**APIs & Backend Services:** `GraphQL`, `Firebase`
 
-**Testing:** `Jest, Mocha, Cypress`
+**Testing:** `Jest, Git Bisect`
 
-**Others:** `SQL (MySQL, PostgreSQL)`
-
+**Design & Prototyping:** `Figma`
 
 ## ✨ Fun Facts:
 
 ## 📫 Contact:
-For quicker response, DM me on LinkedIn.
+For quicker response, DM me on [LinkedIn](http://linkedin.com).
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,figma,react,nextjs,git,)](https://skillicons.dev)
