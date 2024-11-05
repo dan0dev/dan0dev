@@ -19,11 +19,3 @@ Committed to continuous learning and staying current with emerging technologies,
 
 ## 📫 Contact:
 For quicker response, DM me on [LinkedIn](http://linkedin.com).
-
-![Dano's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan0dev&show_icons=true&theme=dark)
-
-
-
-
-
-
