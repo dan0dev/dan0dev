@@ -5,8 +5,7 @@ I'm a self-taught web developer who's super excited about modern frontend tech. 
 Committed to continuous learning and staying current with emerging technologies, particularly interested in AI advancements, Prompt Engineering and backend development. Learning to code has become my favorite thing to do and I'm having a blast building new things. I believe in documenting everything, so expect lots of commits.
 
 ## 📦 Skillset:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,figma,react,nextjs,redux,jest,graphql,git,)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,figma,jest,graphql,git)](https://skillicons.dev)
 
 ## ✨ Fun Facts:
 - I barely use social media.
