@@ -1,27 +1,23 @@
-### Hey, I'm Dano 👋🏼
+![Banner](https://i.imgur.com/1sqc4X1.png)
 
-I'm a 21-year-old aspiring full-stack developer with a keen interest in the tech world. I've been working on WordPress websites, but my ultimate goal is to become a well-rounded, Fullstack Developer. Follow my journey on GitHub to see my progress and learn more about me.
+I'm a self-taught web developer who's super excited about modern frontend tech. Specializing in React ecosystem, including NextJS, Typescript, and UI frameworks like Shadcn UI or Tailwind CSS. Demonstrated ability to build full-stack applications, check one of my favourites **here**. 
 
-- Check out my [Portfolio](https://daniel-webportfolio.hu).
-- Use my favorite [theme](https://marketplace.visualstudio.com/items?itemName=DesignCourse.designcourse) in vscode.
+Committed to continuous learning and staying current with emerging technologies, particularly interested in AI advancements, Prompt Engineering and backend development. Learning to code has become my favorite thing to do and I'm having a blast building new things. I believe in documenting everything, so expect lots of commits.
 
 ## 📦 Skillset:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,figma,react,nextjs,redux,jest,graphql,git,)](https://skillicons.dev)
 
-**Frontend Core:** `HTML`, `CSS`, `JavaScript`, `Typescript`
-
-**Frontend Frameworks & Libraries:** `React`, `NextJS`, `Redux`, `TailwindCSS`
-
-**Version Control:** `Git`
-
-**APIs & Backend Services:** `GraphQL`, `Firebase`
-
-**Testing:** `Jest, Git Bisect`
-
-**Design & Prototyping:** `Figma`
 
 ## ✨ Fun Facts:
+- I barely use social media.
+- Vegetables? Not a fan.
+- Still learning the ropes in coding – but always improving!
+
+## 🎨 Random stuff:
+- Check out my [Portfolio](https://daniel-webportfolio.hu).
+- Use my current favorite [theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston) in vscode.
 
 ## 📫 Contact:
 For quicker response, DM me on [LinkedIn](http://linkedin.com).
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,figma,react,nextjs,git,)](https://skillicons.dev)
+![Dano's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan0dev&show_icons=true&theme=dark)
