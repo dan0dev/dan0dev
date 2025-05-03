@@ -21,4 +21,3 @@ Committed to continuous learning and staying current with emerging technologies,
 ## 📫 Contact:
 For quicker response, DM me on [LinkedIn](http://linkedin.com).
 
-![Business Card](https://i.imgur.com/09rs5Ch.png)
