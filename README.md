@@ -22,8 +22,7 @@ Committed to continuous learning and staying current with emerging technologies,
 - Use my current favorite [theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston) in vscode.
 
 ## 📫 Contact:
-For quicker response, DM me on [LinkedIn](http://linkedin.com).
+For quicker response, DM me X [X](https://x.com/dan0dev).
 
-<h3>My Languages and Tools:</h3>
 
 
