@@ -9,7 +9,7 @@ Committed to continuous learning and staying current with emerging technologies,
 
 ## 📦 Skillset:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,tailwind,styledcomponents,sass,nodejs,express,graphql,mongodb,mysql,git,github,npm,vite,vscode,vercel,netlify,cloudflare,sentry,jest,vitest,regex,postman,docker,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,tailwind,styledcomponents,sass,nodejs,express,graphql,mongodb,mysql,git,github,npm,vite,vscode,vercel,netlify,cloudflare,sentry,jest,vitest,regex,postman,docker,figma" />
 </p>
 
 ## ✨ Fun Facts:
