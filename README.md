@@ -18,7 +18,7 @@ Committed to continuous learning and staying current with emerging technologies,
 - Still learning the ropes in coding – but always improving!
 
 ## 🎨 Random stuff:
-- Check out my [Portfolio](https://dan0.dev).
+- Check out my [Portfolio](https://danielkakuk.com).
 - Use my current favorite [theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston) in vscode.
 
 ## 📫 Contact:
