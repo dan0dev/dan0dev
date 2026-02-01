@@ -39,7 +39,7 @@ Built a complete web platform for a local business with zero online presence.
 - **Stack:** Next.js, Sanity CMS, GA4, newsletter integration
 - **Result:** 170+ monthly visitors in 60 days
 
-### Lexo AI — *In Development*
+### Lexo Chat — *In Development*
 A RAG-based chatbot that learns from business websites and qualifies leads.
 - **Stack:** Next.js, Python, Pinecone, OpenAI API
 - **Status:** ~80% complete, paused for cost optimization
