@@ -1,8 +1,6 @@
 ![Banner](https://i.imgur.com/J6G2gb2.png)
 
 <div align="center">
-  
-# Hi, I'm Dániel 👋
 
 **Self-taught developer with a marketing brain.**
 
