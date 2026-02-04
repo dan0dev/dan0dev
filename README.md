@@ -34,6 +34,11 @@ I'm a 23-year-old from Hungary teaching myself to code while learning digital ma
 
 ## Projects
 
+### ScreenPrompt — [GitHub](https://github.com/dan0dev/ScreenPrompt)
+A capture-proof overlay that displays your notes on screen—visible to you, invisible to others during screen sharing.
+- **Stack:** Python, Windows API
+- **Features:** Click-through mode, keyboard shortcuts, 100% local & private
+
 ### Dorogi Shooting Range — [Case Study](https://danielkakuk.com/project/dorog-shooting-range)
 Built a complete web platform for a local business with zero online presence.
 - **Stack:** Next.js, Sanity CMS, GA4, newsletter integration
