@@ -39,7 +39,7 @@ A capture-proof overlay that displays your notes on screen—visible to you, inv
 - **Stack:** Python, Windows API
 - **Features:** Click-through mode, keyboard shortcuts, 100% local & private
 
-### Dorogi Shooting Range — [Case Study](https://danielkakuk.com/project/dorog-shooting-range)
+### Dorogi Shooting Range
 Built a complete web platform for a local business with zero online presence.
 - **Stack:** Next.js, Sanity CMS, GA4, newsletter integration
 - **Result:** 170+ monthly visitors in 60 days
