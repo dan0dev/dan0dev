@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Dániel 👋
+# Hi, I'm Daniel 👋
 
 **I build things and figure out the rest along the way.**
 
@@ -14,13 +14,13 @@
 
 ## About Me
 
-Self-taught developer from Hungary. No CS degree — just a year of building real projects, shipping them, and learning by doing.
+I'm a self-taught developer who spent the past year intensively building projects and developing real products. I don't just learn to code — I ship market-ready solutions.
 
 I pick things up fast. I taught myself React and Next.js from scratch, built a tool that got 20k+ views on Reddit in two days, and learned Laravel in a few days for a technical assessment after never touching PHP.
 
 I don't just care about clean code — I care about whether what I build actually moves the needle for the business.
 
-Currently looking for my first developer role.
+Currently looking for my first developer role in Budapest.
 
 ---
 
@@ -48,3 +48,4 @@ Chrome extension that decodes exact post dates from LinkedIn's Snowflake IDs.
 ## Let's Connect
 
 📧 hi@danielkakuk.com
+
