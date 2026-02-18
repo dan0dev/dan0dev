@@ -2,6 +2,13 @@
 
 <div align="center">
 
+<p align="center">
+  <a href="https://danielkakuk.com">
+    <img src="https://i.imgur.com/lW70tu6.jpeg" alt="Daniel Kakuk banner" style="max-width:100%; height:auto; display:block; margin: 0 auto 18px auto;" />
+  </a>
+</p>
+
+
 # Hi, I'm Daniel 👋
 
 **I build things and figure out the rest along the way.**
@@ -28,5 +35,6 @@ Currently looking for my first developer role in Budapest.
 ## Let's Connect
 
 📧 hi@danielkakuk.com
+
 
 
