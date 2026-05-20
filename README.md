@@ -8,7 +8,7 @@
     />
   </a>
 
-  # Hi, I&apos;m Daniel 👋
+
 
   <p><strong>I build things and figure out the rest along the way.</strong></p>
 
