@@ -46,7 +46,7 @@ The first version was written in Python; the current one runs on Tauri 2.
 ![Windows 10+](https://img.shields.io/badge/Windows-10%2B-0078D4?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](https://github.com/dan0dev/ScreenPrompt/blob/main/LICENSE)
 
-**[View the repo →](https://github.com/dan0dev/ScreenPrompt)** &nbsp;·&nbsp; **[Download →](https://github.com/dan0dev/ScreenPrompt/releases)**
+**[View the repo ](https://github.com/dan0dev/ScreenPrompt)** &nbsp;·&nbsp; **[Download ](https://github.com/dan0dev/ScreenPrompt/releases)**
 
 <a href="https://github.com/dan0dev/ScreenPrompt">
   <img src="https://github.com/dan0dev/ScreenPrompt/raw/main/hero-video-main.gif" width="100%" alt="ScreenPrompt demo: an overlay of notes that is visible on the presenter's screen and missing from the shared view" />
@@ -71,7 +71,7 @@ A temporary screenshot shelf for Windows. Snips land, perch for a while, then fl
 ![Windows 10 and 11](https://img.shields.io/badge/Windows-10_%7C_11-0078D4?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](https://github.com/dan0dev/perch/blob/main/LICENSE)
 
-**[Website →](https://perchwebsite.vercel.app)** &nbsp;·&nbsp; **[View the repo →](https://github.com/dan0dev/perch)** &nbsp;·&nbsp; **[Download →](https://github.com/dan0dev/perch/releases/latest)**
+**[Website ](https://perchwebsite.vercel.app)** &nbsp;·&nbsp; **[View the repo ](https://github.com/dan0dev/perch)** &nbsp;·&nbsp; **[Download ](https://github.com/dan0dev/perch/releases/latest)**
 
 <a href="https://github.com/dan0dev/perch">
   <img src="https://github.com/dan0dev/perch/raw/main/docs/demo-wide.gif" width="100%" alt="Perch demo: three screenshots are selected on the shelf and dragged together into a chat's drop zone" />
@@ -92,7 +92,7 @@ A Chrome extension that turns LinkedIn's vague "2h ago" into a precise timestamp
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-34A853?style=flat-square)
 ![Privacy first](https://img.shields.io/badge/privacy-first-111827?style=flat-square)
 
-**[View the repo →](https://github.com/dan0dev/linkedin-timestamp)**
+**[View the repo ](https://github.com/dan0dev/linkedin-timestamp)**
 
 <br />
 
@@ -158,7 +158,7 @@ What's on the bench right now.
 
 **Stuck on something?** That's usually where I come in.
 
-[Open a ticket →](https://danielkakuk.com) &nbsp;·&nbsp; [Find me on LinkedIn →](https://www.linkedin.com/in/daniel-kakuk-0113/)
+[Open a ticket ](https://danielkakuk.com) &nbsp;·&nbsp; [Find me on LinkedIn ](https://www.linkedin.com/in/daniel-kakuk-0113/)
 
 <sub>Built in Hungary. Shipped to wherever the download button gets clicked.</sub>
 
